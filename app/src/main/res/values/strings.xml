@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Toast&amp;Note</string>
+
+    <string name="pruebaBanerID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="pruebaIntesrticialID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="etEjempString">Ejemplo: E = m*c^2</string>
+    <string-array name="pref_velrep_aud_value">
+        <item>15 s</item>
+        <item>30 s</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+    </string-array>
+    <string name="pref_mensaje_key">m_k</string>
+    <string name="pref_time_key">t_c</string>
+    <string name="pref_oport_key">o_c</string>
+
+    <string name="sms_anuncio_cargando">aununcio cargando</string>
+    <string name="sms_anuncio_no_disponible">aununcio no disponible</string>
+
+    <string name="id_banner">ca-app-pub-7112272416908253/1477882480</string>
+    <string name="id_intersticial">ca-app-pub-7112272416908253/4254829886</string>
+    <string name="id_app">ca-app-pub-7112272416908253~7034048229</string>
+
+    <string name="id_banner_prueba">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="id_intersticial_prueba">ca-app-pub-3940256099942544/1033173712</string>
+<!--    <string name="id_app_prueba">ca-app-pub-3940256099942544~3347511713</string> -->
+
+</resources>

@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "154846460507",
+    "firebase_url": "https://toastnote-12612.firebaseio.com",
+    "project_id": "toastnote-12612",
+    "storage_bucket": "toastnote-12612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154846460507:android:93b3e33e71cedc99",
+        "android_client_info": {
+          "package_name": "com.ptoastnote.toastnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154846460507-7j5i07dl38v5h8bvse2rv0ig1strnrre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4SCYZ8N_XYwhTIvMJvkhvEZDoFSjip8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154846460507-7j5i07dl38v5h8bvse2rv0ig1strnrre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7112272416908253~7034048229"
+    }
+  ],
+  "configuration_version": "1"
+}
